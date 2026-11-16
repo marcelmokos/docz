@@ -22,9 +22,9 @@
     "tslint": "tslint --project ."
   },
   "dependencies": {
-    "@babel/core": "7.1.0",
+    "@babel/core": "7.29.6",
     "@babel/polyfill": "7.0.0",
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^8.1.2",
     "@mdx-js/loader": "^0.15.2",
     "@mdx-js/mdx": "^0.15.2",
     "@mdx-js/mdxast": "^0.15.0",
